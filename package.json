@@ -1,0 +1,19 @@
+{
+  "name": "laboratorio-12-programacion-funcional",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Problemas 2, 3 y 4 del laboratorio 12 de Teoría de la Computación.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/main.js",
+    "ejemplos": "node src/main.js --ejemplos",
+    "demo1": "node src/problema1_demo.js",
+    "problema2": "node src/problema2.js",
+    "problema3": "node src/problema3.js",
+    "problema4": "node src/problema4.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
